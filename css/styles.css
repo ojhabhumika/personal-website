@@ -526,6 +526,7 @@ a:hover {
 
 .blogs .card-body p {
 	margin-bottom: 1.125rem;
+	text-align: justify;
 }
 
 .blogs .list-unstyled {
